@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb32f71f.css",
-    "main.js": "/static/js/main.1b4a40d7.js",
-    "static/js/453.3f6b5d00.chunk.js": "/static/js/453.3f6b5d00.chunk.js",
-    "index.html": "/index.html",
-    "main.cb32f71f.css.map": "/static/css/main.cb32f71f.css.map",
-    "main.1b4a40d7.js.map": "/static/js/main.1b4a40d7.js.map",
-    "453.3f6b5d00.chunk.js.map": "/static/js/453.3f6b5d00.chunk.js.map"
+    "main.css": "/react-vercel-app/static/css/main.cb32f71f.css",
+    "main.js": "/react-vercel-app/static/js/main.ab2d8c6b.js",
+    "static/js/453.3f6b5d00.chunk.js": "/react-vercel-app/static/js/453.3f6b5d00.chunk.js",
+    "index.html": "/react-vercel-app/index.html",
+    "main.cb32f71f.css.map": "/react-vercel-app/static/css/main.cb32f71f.css.map",
+    "main.ab2d8c6b.js.map": "/react-vercel-app/static/js/main.ab2d8c6b.js.map",
+    "453.3f6b5d00.chunk.js.map": "/react-vercel-app/static/js/453.3f6b5d00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb32f71f.css",
-    "static/js/main.1b4a40d7.js"
+    "static/js/main.ab2d8c6b.js"
   ]
 }
